@@ -292,4 +292,6 @@ Conclusions
 
 Advanced classification models such as rainforest and gradient boosting machine exhibit very good predictive accuracy both on validation and test datasets. Nonetheless they require significant computation effort.
 
+**Out of sample error** for both advanced algorithms does not exceed 5% and actually is not higher that the that on the training set
+
 Depersonalised predictive model does show a similar accuracy as those customized for each individual. Hence, the combined model can potentially be used to predict (monitor) performace of the entire population of interest.
